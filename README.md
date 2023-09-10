@@ -33,4 +33,4 @@ Membuat program sederhana self-service cashier untuk sebuah supermarket, sebagai
 3. Pemberian akses login customer sehingga semua customer dapat tercapture, baik customer langsung maupun customer delivery.
 4. Membuat relational database yang lebih lengkap sebagai pelengkap pencatatan order yang mempermudah owner dalam memperoleh kondisi keseluruhan bisnis.
 
-# pyhton_self-service_cashier
+
